@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="popularity">Sort Popularity</string>
+    <string name="rating">Sort Rating</string>
+    <string name="instructions">Please select a movie to view details</string>
+    <string name="trailers">Trailers</string>
+    <string name="reviews">Reviews</string>
+    <string name="addfavorite">Add Favorite</string>
+    <string name="removefavorite">Remove Favorite</string>
+    <string name="showfavorites">View Favorites</string>
+    <string name="hidefavorites">View All</string>
+</resources>

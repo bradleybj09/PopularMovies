@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Ben\\AndroidStudioProjects\\PopularMovies Part 2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\fragment.xml",
+        "source": "C:\\Users\\Ben\\AndroidStudioProjects\\PopularMovies Part 2\\app\\src\\main\\res\\menu\\fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ben\\AndroidStudioProjects\\PopularMovies Part 2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\Ben\\AndroidStudioProjects\\PopularMovies Part 2\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ben\\AndroidStudioProjects\\PopularMovies Part 2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\mainfavorites.xml",
+        "source": "C:\\Users\\Ben\\AndroidStudioProjects\\PopularMovies Part 2\\app\\src\\main\\res\\menu\\mainfavorites.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ben\\AndroidStudioProjects\\PopularMovies Part 2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\fragmentfavorites.xml",
+        "source": "C:\\Users\\Ben\\AndroidStudioProjects\\PopularMovies Part 2\\app\\src\\main\\res\\menu\\fragmentfavorites.xml"
+    }
+]

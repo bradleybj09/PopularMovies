@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <item
+        android:id="@+id/Popularity"
+        android:orderInCategory="102"
+        android:title="@string/popularity"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/Rating"
+        android:orderInCategory="103"
+        android:title="@string/rating"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/ShowFavorites"
+        android:title="@string/showfavorites"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/ShowNormal"
+        android:title="@string/hidefavorites"
+        android:orderInCategory="101"
+        app:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/AddFavorite"
+        android:title="@string/addfavorite"
+        android:icon="@android:drawable/btn_star_big_off"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/RemoveFavorite"
+        android:title="@string/removefavorite"
+        android:icon="@android:drawable/btn_star_big_on"
+        app:showAsAction="ifRoom" />
+
+</menu>
